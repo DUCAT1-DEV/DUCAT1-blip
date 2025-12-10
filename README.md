@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=141&color=4f3011&textBg=false"/>
-
  <div align="center">
        
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&pause=1000&color=4F3011&background=689CFF00&width=435&lines=BEM+VINDOS+AO+MEU+GITHUB)](https://git.io/typing-svg)
