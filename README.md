@@ -2,7 +2,11 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DUCAT1-DEV&theme=darcula&hide_border=true&border_radius=4&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUCAT1-DEV&layout=compact&langs_count=7&theme=darcula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DUCAT1-DEV&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+</div>
 
 </div>
 
